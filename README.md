@@ -1,3 +1,3 @@
 # PrepCourse-Henry
 
-Este es una prube para crear un repositorio y traerlo desde Github a la PC
+Este es una prueba para crear un repositorio y traerlo desde Github a la PC intento 2
